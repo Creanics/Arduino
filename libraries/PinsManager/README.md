@@ -1,5 +1,6 @@
-# PinsManager
+[Français](README.fr.md)
 
+# PinsManager
 
 PinsManager is a lightweight Arduino library designed to centralize and simplify pin configuration across multiple files.
 

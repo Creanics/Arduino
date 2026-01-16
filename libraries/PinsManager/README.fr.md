@@ -1,3 +1,5 @@
+[English](README.md)
+
 # PinsManager
 
 PinsManager est une librairie Arduino légère permettant de centraliser la déclaration et l’initialisation des pins, même dans des projets répartis sur plusieurs fichiers.
