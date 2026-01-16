@@ -1,0 +1,12 @@
+
+/*
+
+!.gitignore
+
+!libraries/
+
+libraries/*
+!libraries/*.zip
+
+!libraries/PinsManager/
+!libraries/PinsManager/**
