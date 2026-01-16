@@ -1,9 +1,11 @@
 #pragma once
 
+#ifndef MAX_PINS
+#define MAX_PINS 20
+#endif
+
 class PinsManager {
 private:
-  static const int MAX_PINS = 20;
-
   int inputPins[MAX_PINS];
   int outputPins[MAX_PINS];
 
