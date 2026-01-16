@@ -6,7 +6,7 @@
 !libraries/
 
 libraries/*
-!libraries/*.zip
+!libraries/zip/
 
 !libraries/PinsManager/
 !libraries/PinsManager/**
