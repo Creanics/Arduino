@@ -20,9 +20,10 @@ Elle évite de multiplier les appels à `pinMode()` et permet une initialisation
 
 ## 📦 Installation
 
-1. Copier le dossier `PinsManager` dans le dossier `libraries` d’Arduino
-2. Redémarrer l’IDE Arduino
-3. Inclure la librairie :
+1. Allez dans le[dossier de versions](../zip/PinsManager/) et téléchargez la dernière version
+2. Copier le dossier `PinsManager` dans le dossier `libraries` d’Arduino
+3. Redémarrer l’IDE Arduino
+4. Inclure la librairie :
 
 ```cpp
 #include <PinsManager.h>
