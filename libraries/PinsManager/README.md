@@ -20,9 +20,10 @@ Instead of calling `pinMode()` everywhere, you declare your input and output pin
 
 ## 📦 Installation
 
-1. Copy the `PinsManager` folder into your Arduino `libraries` directory
-2. Restart the Arduino IDE
-3. Include the library in your code:
+1. Go to the [versions folder](../zip/PinsManager/) and Download the latest version
+2. Copy the `PinsManager` folder into your Arduino `libraries` directory
+3. Restart the Arduino IDE
+4. Include the library in your code:
 
 ```cpp
 #include <PinsManager.h>
